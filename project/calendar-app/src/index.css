@@ -1,0 +1,50 @@
+.light-theme {
+  background-color: #f0f0f0;
+  color: #333;
+}
+
+.dark-theme {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+.dark-theme .rbc-calendar {
+  background-color: #1e1e1e;
+}
+
+.dark-theme .rbc-header,
+.dark-theme .rbc-day-header {
+  background-color: #2c2f33;
+  color: #fff;
+}
+
+.dark-theme .rbc-today {
+  background-color: #424242;
+  color: #fff;
+}
+
+.dark-theme .rbc-day-bg .rbc-date-cell {
+  color: #fff;
+}
+
+.dark-theme .rbc-day-bg:hover,
+.dark-theme .rbc-month-view .rbc-row .rbc-today {
+  background-color: #333740;
+}
+
+.dark-theme .rbc-event,
+.dark-theme .rbc-selected {
+  background-color: #0056b3;
+  color: #fff;
+}
+
+.dark-theme .rbc-btn {
+  background-color: #333740;
+  color: #fff;
+  border: none;
+}
+
+.dark-theme .rbc-toolbar button:focus {
+  outline: none
+}
+

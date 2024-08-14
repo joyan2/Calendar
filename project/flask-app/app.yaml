@@ -1,0 +1,7 @@
+runtime: python39
+
+env_variables:
+  CLOUD_SQL_USERNAME: root
+  CLOUD_SQL_PASSWORD: qwertyuiop
+  CLOUD_SQL_DATABASE_NAME: CalendarApp
+  CLOUD_SQL_CONNECTION_NAME: cs-222-final-project:us-central1:calendar-app
